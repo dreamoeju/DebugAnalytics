@@ -1,2 +1,2 @@
-{api:"http://192.168.151.206:10888/api/analytics",
-configs:["https://raw.githubusercontent.com/dreamoeju/DebugAnalytics/main/config.json"]}
+{root_api:"http://192.168.151.206:10888/api/analytics",
+config_links:["https://raw.githubusercontent.com/dreamoeju/DebugAnalytics/main/config.json"]}
